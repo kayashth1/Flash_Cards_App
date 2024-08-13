@@ -1,4 +1,4 @@
-Sure! Here's a Markdown file based on the instructions you provided:
+
 
 # Flash Card App
 
@@ -49,5 +49,3 @@ Start the frontend development server:
 npm run dev
 ```
 ```
-
-Feel free to let me know if you need any more details or adjustments!
